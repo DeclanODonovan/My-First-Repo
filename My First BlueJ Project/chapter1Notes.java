@@ -32,6 +32,7 @@ public class chapter1Notes
        long a = 9;
        short b = 5;
        
+       
        //These are objects!
        String word = new String("Declan O'Donovan");
        Integer number = new Integer(47);
